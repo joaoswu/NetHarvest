@@ -1,0 +1,24 @@
+{
+  "name": "netharvest",
+  "version": "1.0.0",
+  "description": "High-precision web archiver and offline mirroring engine with headless browser rendering and intelligent link resolution.",
+  "main": "netharvest.js",
+  "type": "module",
+  "bin": {
+    "netharvest": "./netharvest.js"
+  },
+  "scripts": {
+    "start": "node netharvest.js"
+  },
+  "keywords": [
+    "crawler",
+    "web-archiver",
+    "scraper",
+    "offline-mirror",
+    "website-dumper",
+    "headless-browser",
+    "sourcemap-unpacker"
+  ],
+  "author": "",
+  "license": "MIT"
+}
